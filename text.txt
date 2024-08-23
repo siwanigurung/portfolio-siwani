@@ -1,1 +1,9 @@
 https://www.youtube.com/watch?v=ldwlOzRvYOU&t=22s
+<!-- comment -->
+<!-- my borders is not showing in details-container 1:30 -->
+<!-- i need live demo page -->
+<!-- must update the project pics -->
+<!-- delete my second pic -->
+<!-- change the lorem ipsum -->
+<!-- nice cv added -->
+<!-- dunno why the check marks are wonky -->
