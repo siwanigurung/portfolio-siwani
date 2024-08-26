@@ -1,4 +1,8 @@
 https://www.youtube.com/watch?v=ldwlOzRvYOU&t=22s
+
+
+
+
 <!-- comment -->
 <!-- my borders is not showing in details-container 1:30 -->
 <!-- i need live demo page -->
@@ -6,4 +10,15 @@ https://www.youtube.com/watch?v=ldwlOzRvYOU&t=22s
 <!-- delete my second pic -->
 <!-- change the lorem ipsum -->
 <!-- nice cv added -->
-<!-- dunno why the check marks are wonky -->
+
+
+1. add about me section 
+2. remove about me photo
+3. make a gif of 3 projects
+4. update project 1,2 and 3 photo
+5. update project 1,2,3 github 
+6. add live demo for 1,2,3 and update on Portfolio
+7. contact me email change and make 
+8. make a nice cv and update it on Portfolio
+9. update linkedin
+
