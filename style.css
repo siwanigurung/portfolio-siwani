@@ -12,6 +12,7 @@ padding: 0;
 
 body{
     font-family: 'poppins', 'sans-seriff';
+    /* background-color: rgb(217, 242, 234); */
 }
 
 html {
@@ -341,7 +342,7 @@ justify-content: space-around;
 }
 
 article{
-    display: flex;
+display: flex;
 width: 10rem;
 justify-content: space-around;
 gap:0.5rem; 
